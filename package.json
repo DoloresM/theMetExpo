@@ -10,5 +10,19 @@
   },
   "devDependencies": {
     "vite": "^5.0.0"
-  }
+  },
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "esbuild": "^0.19.8",
+    "fsevents": "^2.3.3",
+    "mongoose": "^8.0.3",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.32",
+    "rollup": "^4.7.0",
+    "source-map-js": "^1.0.2"
+  },
+  "author": "",
+  "license": "ISC"
 }
